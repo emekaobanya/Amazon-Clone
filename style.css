@@ -258,6 +258,10 @@ input[type="checkbox"] {
       
     }
 
+    .cart-border .cart-bound {
+        padding: 10px;
+    }
+
 }
 
 
